@@ -270,7 +270,7 @@ Time: 3 weeks
 
 Time: 6 weeks
 
-* Enroll in the Harvardx ["CS for Web Programming" certificate](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming)
+* Enroll in the HarvardX ["CS for Web Programming" certificate](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming)
 * Take the ["CS50's Web Programming with Python and JavaScript" course](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 
 ## PROG 104: Data Science and Analysis
