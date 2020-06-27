@@ -24,7 +24,7 @@ This program focuses on Python, JavaScript/web dev, and some other "general" pro
 
 ## Effort and Cost
 
-The program lays out about 3-6 months of learning activity, but it's all self-paced, so you can go faster or slower.
+The program lays out about 3 to 8 months of learning activity, but it's all self-paced, so you can go faster or slower.
 
 You'll need to buy some books and services to do the program, which will run you between $700 and $1,200 (depending on how many of the optional stuff you do).
 In addition, you'll need an okay computer, preferably a Mac laptop, which can cost $800 to $1,500 if you don't have one already.
