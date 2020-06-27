@@ -16,3 +16,10 @@
   * [Big list of free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 
 * [CODE Magazine](https://www.codemag.com/magazine)
+
+## Notable Twitter accounts
+
+* [SwiftOnSecurity](https://twitter.com/SwiftOnSecurity)
+* [patio11](https://twitter.com/patio11/)
+* [Marcus J. Carey](https://twitter.com/marcusjcarey)
+* [Lesley Carhart](https://twitter.com/hacks4pancakes/)
