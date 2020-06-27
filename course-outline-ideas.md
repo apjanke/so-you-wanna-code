@@ -10,12 +10,14 @@
   * NERD 101
 * Semester 2
   * PRAG 102
-  * PROG 102 or 103 or 104 (pick 1 or 2)
+  * PROG 102
+  * PROG 103 or 104 or 105 (pick 1 or 2)
   * NERD 102
 * Semester 3
-  * PROJ 201
-  * PROG 201 (elective)
   * PRAG 201
+  * PROJ 201 (elective)
+  * PROG 201 (elective)
+  * DB 201 (elective)
 
 ## PROG 001: Preparation for Noobs / Summer Reading
 
@@ -247,14 +249,19 @@ Time: 3 weeks
 * Learn about dev conferences
   * Have a look at PyCon, PyGotham, !!Con, Apache conferences, WWDC, and so on
 
-## PROG 102: Web Development
+## PROG 102: Next Steps
+
+* Read "No Silver Bullet" by Fred Brooks
+* Read _Database In Depth_
+
+## PROG 103: Web Development
 
 Time: 6 weeks
 
 * Enroll in the Harvardx ["CS for Web Programming" certificate](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming)
 * Take the ["CS50's Web Programming with Python and JavaScript" course](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 
-## PROG 103: Data Science and Analysis
+## PROG 104: Data Science and Analysis
 
 Time: 6 weeks
 
@@ -262,7 +269,7 @@ Time: 6 weeks
 * Take an introductory R course (?)
 * Read Edward Tufte's _The Visual Display of Quantitative Information_
 
-## PROG 104: Cloud Stuff, Sysadminning, and DevOps
+## PROG 105: Cloud Stuff, Sysadminning, and DevOps
 
 TODO: Find some material on GCP training and certification
 
@@ -270,17 +277,6 @@ TODO: Find some material on GCP training and certification
 
 * Learn about mechanical keyboards
 * Get a programming t-shirt
-
-## PROG 201: Getting Close to the Metal with C
-
-* Read K&R's "The C Programming Language" and work all the exercises
-* Do as many of the HackerRank C challenges as you can
-
-## PROJ 201: Intro to Project Management
-
-TBD
-
-* TODO: Find a course/certificate program
 
 ## PRAG 201: The Job Search
 
@@ -290,6 +286,26 @@ TBD
 * Update your "professional" profiles
   * LinkedIn
   * DEV
+
+## PROG 201: Getting Close to the Metal with C
+
+* Read K&R's "The C Programming Language" and work all the exercises
+* Do as many of the HackerRank C challenges as you can
+
+## PROJ 201: Intro to Project Management
+
+* Read _The Mythical Man-Month_
+* Read _The Manager's Path_
+* More TBD
+  * TODO: Find a course/certificate program
+
+## DB 201: Databases
+
+* Read _An Introduction to Database Systems_
+  * And work the exercises
+* TODO: Some practical work with a DB, probably Postgres
+* TODO: Find a MOOC course
+  * Or courses; one for relational theory and one for Postgres pragmatics
 
 ### TODO for Andrew
 

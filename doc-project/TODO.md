@@ -12,14 +12,16 @@
   * Add dataviz books to the Data Science course
 * Choose AsciiDoc or Markdown for actual course pages
   * <https://github.com/asciidoctor/jekyll-asciidoc> - can use AsciiDoc with GitHub Pages
-* Project Management curriculum
+* PROJ 201: Project Management curriculum
   * Follow up on Simeon's recommendations
   * CAPM from Project Management Institute?
   * Read <https://www.businessnewsdaily.com/10762-best-project-management-certifications.html>
 * Research certifications for GCP and AWS
   * Consider switching to AWS, for job prospect reasons
-* A DB 101/201 course?
-  * I've already got the DB books in there; should structure this
-
+* More diversity in reading sources?
+  * Current list is pretty white and male
 * Do the CS50 Understanding Tech course
 * Start work on CS50 Intro to Programming
+* An item on meditation in PRAG 102 or 201?
+* Some personal finance stuff in PRAG
+  * Find that "Best Financial Advice You'll Never Receive" article

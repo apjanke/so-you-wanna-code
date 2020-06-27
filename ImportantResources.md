@@ -6,3 +6,6 @@
 * [Pro Git](https://git-scm.com/book/en/v2)
 * [Atlassian's Git Tutorials](https://www.atlassian.com/git)
 * [Big list of free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
+* Fred Brook's ["No Silver Bullet"](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
+* ESR's ["The Cathedral and the Bazaar"](http://www.catb.org/~esr/writings/cathedral-bazaar/)
+* ["What Every Computer Scientist Should Know About Floating Point Arithmetic"](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
