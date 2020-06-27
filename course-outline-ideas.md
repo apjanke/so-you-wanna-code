@@ -336,14 +336,11 @@ TODO: Find some material on GCP training and certification
 * TODO: Find a MOOC course
   * Or courses; one for relational theory and one for Postgres pragmatics
 
-## TODO for Andrew
+# TODOs for Andrew
 
 * More stuff
 * How to actually locate and research employers
 * How to contact recruiters
-
-# TODOs for Andrew
-
 * Choose:
   * A free SQL GUI client
 * System specs & requirements for student Macs
