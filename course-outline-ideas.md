@@ -1,5 +1,12 @@
 # So You Wanna Code course outline ideas
 
+## Course areas
+
+* PROG - Programming
+* PRAG - Pragmatics
+* PROJ - Project Management
+* NERD - Nerd culture and support stuff
+
 ## Program Sequence
 
 * Preparation
