@@ -7,6 +7,15 @@ I am a programmer; I am not a teacher of programming.
 This is just some stuff I threw together based on my experience as a programmer.
 YMMV.
 
+## Effort and Cost
+
+The program lays out 3-4 months of learning activity, but it's all self-paced, so you can go faster or slower.
+
+You'll need to buy some books and services to do the program, which will run you between $700 and $1,200 (depending on how many of the optional stuff you do).
+In addition, you'll need an okay computer, preferably a Mac laptop, which can cost $800 to $1,500 if you don't have one already.
+
+You can find a list of program materials and costs as the ["So You Wanna Code - Materials and Costs" Google Sheet](https://docs.google.com/spreadsheets/d/1CVBE83diSe63xbfDdTgHKiyhSbVYcnAWUjlKcRUs_OQ/edit?usp=sharing).
+
 ## License
 
 Undecided. Probably will be Creative Commons or GNU Free Documentation License.
@@ -14,4 +23,3 @@ Undecided. Probably will be Creative Commons or GNU Free Documentation License.
 ## Author
 
 This was made by [Andrew Janke](https://apjanke.net) for a target audience of his friends.
-
