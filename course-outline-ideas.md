@@ -30,7 +30,7 @@ Time: 3 days
 
 ## PRAG 101: Setting up as a Dev
 
-Time: 3 days
+Time: 1 week
 
 ### Prep for this course
 
@@ -148,6 +148,12 @@ Time: 3 days
     * Paul Oakenfold, "Tranceport"
     * Mike Oldfield, "The Songs of Distant Earth"
     * woob, "em:t 1194"
+
+### Learn the basic tools
+
+* Learn Git basics from one of:
+  * [Atlassian's Learning Git resources](https://www.atlassian.com/git)
+  * The [_Pro Git_ online book](https://git-scm.com/book/en/v2)
 
 ### More stuff to do
 
