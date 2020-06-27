@@ -7,9 +7,14 @@ I am a programmer; I am not a teacher of programming.
 This is just some stuff I threw together based on my experience as a programmer.
 YMMV.
 
+## What's in here
+
+See [course-outline-ideas.md] for what I've come up with so far for a basic course outline.
+[ImportantResources.md] has links to additional resources.
+
 ## Effort and Cost
 
-The program lays out 3-4 months of learning activity, but it's all self-paced, so you can go faster or slower.
+The program lays out about 3-4 months of learning activity, but it's all self-paced, so you can go faster or slower.
 
 You'll need to buy some books and services to do the program, which will run you between $700 and $1,200 (depending on how many of the optional stuff you do).
 In addition, you'll need an okay computer, preferably a Mac laptop, which can cost $800 to $1,500 if you don't have one already.
