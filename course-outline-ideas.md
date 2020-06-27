@@ -65,6 +65,8 @@ Time: 1 week
   * [Twitter](https://twitter.com)
     * This'll be your dev Twitter, not your face/personal Twitter. Keep 'em separate for now.
   * [LinkedIn](https://www.linkedin.com)
+  * [Pinboard](https://pinboard.in)
+  * [Pocket](https://getpocket.com)
 
 ### Setting up your dev box
 
@@ -139,6 +141,8 @@ Time: 1 week
 * Find some programming blogs and add them to your Feedly stream.
   * Now go through them every couple days!
 * Find some devs on Twitter and follow them using your dev Twitter account.
+* Try sending a few things from your RSS feed to Pocket and reading them there.
+* Save a few pages to your Pinboard.
 
 ### Setting up your dev meatspace
 
@@ -286,6 +290,8 @@ TODO: Find some material on GCP training and certification
 * Update your "professional" profiles
   * LinkedIn
   * DEV
+* Read:
+  * ["The best investment advice you'll never get"](https://ritholtz.com/2014/02/the-best-investment-advice-youll-never-get-2/)
 
 ## PROG 201: Getting Close to the Metal with C
 
