@@ -2,7 +2,7 @@
 
 ## Program Sequence
 
-* Prep
+* Preparation
   * PROG 001
 * Semester 1
   * PRAG 101
