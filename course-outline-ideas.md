@@ -1,5 +1,22 @@
 # So You Wanna Code course outline ideas
 
+## Program Sequence
+
+* Prep
+  * PROG 001
+* Semester 1
+  * PRAG 101
+  * PROG 101
+  * NERD 101
+* Semester 2
+  * PRAG 102
+  * PROG 102 or 103 or 104
+  * NERD 102
+* Semester 3
+  * PROJ 201
+  * PROG 201 (elective)
+  * PRAG 201
+
 ## PROG 001: Preparation for Noobs / Summer Reading
 
 Time: 3 days
@@ -17,7 +34,7 @@ Time: 3 days
 
 ### Prep for this course
 
-* Join the Lovelace Cafe Discord
+* Join the "Lovelace Cafe" Discord
   * This is Andrew's Discord for people doing this program. Ask him for an invite.
 
 ### Setting up your identity
@@ -26,7 +43,8 @@ Time: 3 days
 * Buy a domain
   * Based on your handle
 * Set up email on your domain
-  * GMail with a redirect
+  * GMail with a redirect (free)
+  * FastMail (better, but $)
 * Create accounts and set up your profile on:
   * GitHub
   * [DEV](https://dev.to)
@@ -185,6 +203,8 @@ Read:
 
 ## PRAG 102: Flexible development and self promotion
 
+Time: 3 weeks
+
 * Set up SSH keys
 * Set up some local VMs
   * Make a Mac VM
@@ -196,20 +216,31 @@ Read:
   * Provision a Linux VM on GCP
   * Log in to it remotely with SSH
 * TODO: Some stuff on learning the Unix command line
-
+* Finish _The Pragmatic Programmer_
 * Start doing HackerRank
   * Set up a HackerRank account
   * Do a few challenges from each of the languages learned in PROG 101
+* Read _The Practice of Programming_
+* Learn Markdown and Jekyll
+  * Create a GitHub Pages site using them
 
 ## PROG 102: Web Development
+
+Time: 6 weeks
 
 * Enroll in the Harvardx ["CS for Web Programming" certificate](https://www.edx.org/professional-certificate/harvardx-computer-science-for-web-programming)
 * Take the ["CS50's Web Programming with Python and JavaScript" course](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 
 ## PROG 103: Data Science and Analysis
 
+Time: 6 weeks
+
 * Take MITx's ["Intro to Computational Thinking and Data Science" course](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
 * Take an introductory R course
+
+## PROG 104: Cloud Stuff, Sysadminning, and DevOps
+
+TODO: Find some material on GCP training and certification
 
 ## PROG 201: Getting Close to the Metal with C
 
@@ -219,6 +250,23 @@ Read:
 ## PROJ 201: Intro to Project Management
 
 TBD
+
+* TODO: Find a course/certificate program
+
+## PRAG 201: The Job Search
+
+* Update your resume
+  * And post it on your website
+* Do Triplebyte
+* Update your "professional" profiles
+  * LinkedIn
+  * DEV
+
+### TODO for Andrew
+
+* More stuff
+* How to actually locate and research employers
+* How to contact recruiters
 
 ## TODOs for Andrew
 
