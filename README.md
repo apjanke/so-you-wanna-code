@@ -5,6 +5,7 @@ It's aimed at adults considering a career change, but would also be appropriate 
 
 I am a programmer; I am not a teacher of programming.
 This is just some stuff I threw together based on my experience as a programmer.
+Nobody has done this program yet, so I have no idea how well it's going to work.
 YMMV.
 
 ## What's in here
