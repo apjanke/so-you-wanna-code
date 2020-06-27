@@ -311,6 +311,7 @@ TODO: Find some material on GCP training and certification
 ## PROG 202: Getting Close to the Metal with C
 
 * Read K&R's _The C Programming Language_ and work all the exercises
+  * This may be replaced with _21st Century C_ once Andrew reviews it
 * Do as many of the HackerRank C challenges as you can
 
 ## PROJ 201: Intro to Project Management

@@ -8,6 +8,10 @@ This is just some stuff I threw together based on my experience as a programmer.
 Nobody has done this program yet, so I have no idea how well it's going to work.
 YMMV.
 
+This is an outline of a learning program.
+It is not an actual course.
+It will recommend things for you to learn, and suggest where you can do that, but will not actually teach you these things.
+
 ## What's in here
 
 See [course-outline-ideas.md] for what I've come up with so far for a basic course outline.
@@ -26,10 +30,31 @@ Most of the costs are pay-as-you go; you'll need to lay out about $300 up front 
 
 You can find a list of program materials and costs as the ["So You Wanna Code - Materials and Costs" Google Sheet](https://docs.google.com/spreadsheets/d/1CVBE83diSe63xbfDdTgHKiyhSbVYcnAWUjlKcRUs_OQ/edit?usp=sharing).
 
+## Materials
+
+### Required
+
+* An okay laptop
+  * Mac strongly recommended
+
+### Recommended
+
+* A tablet
+  * Recommended: iPad
+* A tablet stand
+  * Recommended: [12 South Compass Pro](https://www.twelvesouth.com/products/compass-pro) iPad Stand
+* An external monitor and keyboard once you're in to Semester 3
+  * Recommended: 24" or 27" 4K monitor
+  * Upgrade choice: A 27" 5K iMac
+
 ## License
 
-Undecided. Probably will be Creative Commons or GNU Free Documentation License.
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 ## Author
 
 This was made by [Andrew Janke](https://apjanke.net) for a target audience of his friends.
+
+This material is free to use.
+I don't need donations.
+If you'd like to support this project's aims, pleaes donate to [Black Girls Code](https://www.blackgirlscode.com/) instead.
