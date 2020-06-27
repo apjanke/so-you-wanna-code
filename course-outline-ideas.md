@@ -41,6 +41,7 @@ Time: 3 days
 
 * Pick a handle
   * This is your online nickname. You'll use it for your domain, and your account names on all these services.
+  * Choose wisely! You might be stuck with this for a long time.
 * Buy a domain
   * Run your domain name by Andrew before actually buying it.
 * Set up email on your domain
