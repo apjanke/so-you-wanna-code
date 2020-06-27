@@ -5,12 +5,15 @@ It's aimed at adults considering a career change, but would also be appropriate 
 
 I am a programmer; I am not a teacher of programming.
 This is just some stuff I threw together based on my experience as a programmer.
+Effectively, this is what I would do if I were just learning how to program now.
 Nobody has done this program yet, so I have no idea how well it's going to work.
 YMMV.
 
 This is an outline of a learning program.
 It is not an actual course.
 It will recommend things for you to learn, and suggest where you can do that, but will not actually teach you these things.
+The intent is for this to act as a cheap DIY introduction to programming for self-learners, which could prepare you for further self-study or as a head start on a more formal "boot camp" or other training program.
+It's also a way to get a taste of what programming is like, so you can decide if it's for you before you commit the time and money to do a formal training program.
 
 ## What's in here
 
@@ -21,7 +24,7 @@ This program focuses on Python, JavaScript/web dev, and some other "general" pro
 
 ## Effort and Cost
 
-The program lays out about 3-4 months of learning activity, but it's all self-paced, so you can go faster or slower.
+The program lays out about 3-6 months of learning activity, but it's all self-paced, so you can go faster or slower.
 
 You'll need to buy some books and services to do the program, which will run you between $700 and $1,200 (depending on how many of the optional stuff you do).
 In addition, you'll need an okay computer, preferably a Mac laptop, which can cost $800 to $1,500 if you don't have one already.
