@@ -16,8 +16,10 @@
 * Semester 3
   * PRAG 201
   * PROJ 201 (elective)
-  * PROG 201 (elective)
+  * PROG 201 _or_ 202 (elective)
   * DB 201 (elective)
+
+# Preparation
 
 ## PROG 001: Preparation for Noobs / Summer Reading
 
@@ -30,6 +32,8 @@ Time: 3 days
 * Take the [HarvardX "CS50's Understanding Technology" course](https://www.edx.org/course/cs50s-understanding-technology)
 * Get a Mac laptop
   * TODO: System specs & requirements
+
+# Semester 1
 
 ## PRAG 101: Setting up as a Dev
 
@@ -226,6 +230,8 @@ Read:
 * Read:
   * Vernor Vinge, _A Fire Upon the Deep_
 
+# Semester 2
+
 ## PRAG 102: Flexible development and self promotion
 
 Time: 3 weeks
@@ -282,6 +288,8 @@ TODO: Find some material on GCP training and certification
 * Learn about mechanical keyboards
 * Get a programming t-shirt
 
+# Semester 3
+
 ## PRAG 201: The Job Search
 
 * Update your resume
@@ -293,9 +301,14 @@ TODO: Find some material on GCP training and certification
 * Read:
   * ["The best investment advice you'll never get"](https://ritholtz.com/2014/02/the-best-investment-advice-youll-never-get-2/)
 
-## PROG 201: Getting Close to the Metal with C
+## PROG 201: Getting Lower Level with Java
 
-* Read K&R's "The C Programming Language" and work all the exercises
+* Read _Learning Java_ and work all the exercises
+* TODO: Find a Java programming MOOC course
+
+## PROG 202: Getting Close to the Metal with C
+
+* Read K&R's _The C Programming Language_ and work all the exercises
 * Do as many of the HackerRank C challenges as you can
 
 ## PROJ 201: Intro to Project Management
@@ -313,13 +326,13 @@ TODO: Find some material on GCP training and certification
 * TODO: Find a MOOC course
   * Or courses; one for relational theory and one for Postgres pragmatics
 
-### TODO for Andrew
+## TODO for Andrew
 
 * More stuff
 * How to actually locate and research employers
 * How to contact recruiters
 
-## TODOs for Andrew
+# TODOs for Andrew
 
 * Choose:
   * A free SQL GUI client
