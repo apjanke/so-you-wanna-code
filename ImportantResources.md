@@ -14,8 +14,8 @@
   * ["The best investment advice you'll never get"](https://ritholtz.com/2014/02/the-best-investment-advice-youll-never-get-2/)
 * Meta-resources
   * [Big list of free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
-
-* [CODE Magazine](https://www.codemag.com/magazine)
+* Publications
+  * [CODE Magazine](https://www.codemag.com/magazine)
 
 ## Notable Twitter accounts
 
