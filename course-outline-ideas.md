@@ -10,7 +10,7 @@
   * NERD 101
 * Semester 2
   * PRAG 102
-  * PROG 102 or 103 or 104
+  * PROG 102 or 103 or 104 (pick 1 or 2)
   * NERD 102
 * Semester 3
   * PROJ 201
@@ -24,6 +24,7 @@ Time: 3 days
 * Read:
   * _Code_ by Charles Petzold
   * _Coders_ by Clive Thompson
+  * Optional: _Microserfs_ by Douglas Coupland
 * Take the [HarvardX "CS50's Understanding Technology" course](https://www.edx.org/course/cs50s-understanding-technology)
 * Get a Mac laptop
   * TODO: System specs & requirements
@@ -258,7 +259,8 @@ Time: 6 weeks
 Time: 6 weeks
 
 * Take MITx's ["Intro to Computational Thinking and Data Science" course](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
-* Take an introductory R course
+* Take an introductory R course (?)
+* Read Edward Tufte's _The Visual Display of Quantitative Information_
 
 ## PROG 104: Cloud Stuff, Sysadminning, and DevOps
 
@@ -267,6 +269,7 @@ TODO: Find some material on GCP training and certification
 ## NERD 102
 
 * Learn about mechanical keyboards
+* Get a programming t-shirt
 
 ## PROG 201: Getting Close to the Metal with C
 
