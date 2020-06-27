@@ -24,4 +24,3 @@
 * Start work on CS50 Intro to Programming
 * An item on meditation in PRAG 102 or 201?
 * Some personal finance stuff in PRAG
-  * Find that "Best Financial Advice You'll Never Receive" article
