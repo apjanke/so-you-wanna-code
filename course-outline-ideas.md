@@ -175,6 +175,15 @@ Time: 8 weeks
 * Read the first several chapters of The Pragmatic Programmer
   * And follow their advice!
 
+## SOC 101
+
+TODO: Come up with some material on:
+
+* Isms in the tech industry
+  * Sexism, ageism, racism, and how this will affect you
+* Computer ethics
+* Social justice issues in tech
+
 ## NERD 101
 
 Time: 2 weeks
