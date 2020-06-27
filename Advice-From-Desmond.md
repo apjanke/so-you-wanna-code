@@ -2,7 +2,7 @@
 
 Here's another perspective.
 
-Andrew's friend Desmond has taught people to code before.
+Andrew's friend Desmond (not his real name) has taught people to code before.
 This is the advice Desmond has given out to other people.
 
 This advice is somewhat focused on gaming specifically, but applies pretty well to other areas as well.
