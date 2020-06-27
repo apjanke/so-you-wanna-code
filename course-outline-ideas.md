@@ -40,25 +40,27 @@ Time: 3 days
 ### Setting up your identity
 
 * Pick a handle
+  * This is your online nickname. You'll use it for your domain, and your account names on all these services.
 * Buy a domain
-  * Based on your handle
+  * Run your domain name by Andrew before actually buying it.
 * Set up email on your domain
-  * GMail with a redirect (free)
-  * FastMail (better, but $)
-* Create accounts and set up your profile on:
-  * GitHub
+  * Options:
+    * GMail with a redirect (free)
+    * FastMail (better, but $)
+* Create accounts and set up your profiles on:
+  * [GitHub](https://github.com/)
   * [DEV](https://dev.to)
-  * Stack Overflow
+  * [Stack Overflow](https://stackoverflow.com)
   * [edX](https://www.edx.org)
-  * Bitbucket
-  * Slashdot
-  * Google
+  * [Bitbucket](https://bitbucket.org)
+  * [Slashdot](https://slashdot.org)
+  * Google/GMail
   * [Feedly](feedly.com)
   * Reddit
-  * Matrix
-  * Twitter
-    * This'll be your dev Twitter, not your face/personal Twitter
-  * LinkedIn
+  * [Matrix](https://matrix.org)
+  * [Twitter](https://twitter.com)
+    * This'll be your dev Twitter, not your face/personal Twitter. Keep 'em separate for now.
+  * [LinkedIn](https://www.linkedin.com)
 
 ### Setting up your dev box
 
