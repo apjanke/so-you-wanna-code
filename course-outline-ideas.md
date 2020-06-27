@@ -251,7 +251,8 @@ Time: 3 weeks
 * Start doing HackerRank
   * Set up a HackerRank account
   * Do a few challenges from each of the languages learned in PROG 101
-* Read _The Practice of Programming_
+* Set up a time tracking system
+  * Use an actual time tracking tool
 * Learn Markdown and Jekyll
   * Create a GitHub Pages site using them
 * Research computer ergonomics
@@ -261,6 +262,7 @@ Time: 3 weeks
 
 ## PROG 102: Next Steps
 
+* Read _The Practice of Programming_
 * Read "No Silver Bullet" by Fred Brooks
 * Read _Database In Depth_
 
