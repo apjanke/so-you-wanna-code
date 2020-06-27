@@ -232,6 +232,10 @@ Time: 3 weeks
 * Read _The Practice of Programming_
 * Learn Markdown and Jekyll
   * Create a GitHub Pages site using them
+* Research computer ergonomics
+  * Consider your posture, typing habits, and break time practices
+* Learn about dev conferences
+  * Have a look at PyCon, PyGotham, !!Con, Apache conferences, WWDC, and so on
 
 ## PROG 102: Web Development
 
@@ -250,6 +254,10 @@ Time: 6 weeks
 ## PROG 104: Cloud Stuff, Sysadminning, and DevOps
 
 TODO: Find some material on GCP training and certification
+
+## NERD 102
+
+* Learn about mechanical keyboards
 
 ## PROG 201: Getting Close to the Metal with C
 
