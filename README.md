@@ -12,6 +12,8 @@ YMMV.
 See [course-outline-ideas.md] for what I've come up with so far for a basic course outline.
 [ImportantResources.md] has links to additional resources.
 
+This program focuses on Python, JavaScript/web dev, and some other "general" programming stuff like Java, C, and SQL. It uses Macs for local dev machines and Google Cloud Platform for cloud stuff. It's intended to be low cost, and especially low-up-front cost, so you can decide it's not for you and bail at any time without having sunk a lot of money and effort into it.
+
 ## Effort and Cost
 
 The program lays out about 3-4 months of learning activity, but it's all self-paced, so you can go faster or slower.
