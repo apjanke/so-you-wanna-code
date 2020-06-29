@@ -35,12 +35,12 @@ You can find a list of program materials and costs as the ["So You Wanna Code - 
 
 ## Materials
 
-### Required
+### Required materials
 
 * An okay laptop
   * Mac strongly recommended
 
-### Recommended
+### Recommended materials
 
 * A tablet
   * Recommended: iPad
@@ -49,15 +49,3 @@ You can find a list of program materials and costs as the ["So You Wanna Code - 
 * An external monitor and keyboard once you're in to Semester 3
   * Recommended: 24" or 27" 4K monitor
   * Upgrade choice: A 27" 5K iMac
-
-## License
-
-Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
-
-## Author
-
-This was made by [Andrew Janke](https://apjanke.net) for a target audience of his friends.
-
-This material is free to use.
-I don't need donations.
-If you'd like to support this project's aims, pleaes donate to [Black Girls Code](https://www.blackgirlscode.com/) instead.
