@@ -1,0 +1,10 @@
+theme: jekyll-theme-slate
+
+title: So You Wanna Code
+
+description: Andrew's suggestions for learning how to code
+
+permalink: /:year/:month/:day/:title:output_ext
+
+plugins:
+  - jekyll-feed
