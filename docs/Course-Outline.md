@@ -189,7 +189,7 @@ TODO: Find some material on GCP training and certification
 
 ## PROG 201: Getting Lower Level with Java
 
-* Read _Learning Java_ and work all the exercises
+* Read O'Reilly's _Learning Java_ and work all the exercises
 * TODO: Find a Java programming MOOC course
 
 ## PROG 202: Getting Close to the Metal with C
