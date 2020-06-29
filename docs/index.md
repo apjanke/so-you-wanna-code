@@ -64,6 +64,7 @@ Talk to Andrew.
   * You won't need Windows until Semester 2, so delay buying it until you're sure you'll do that part of the program.
 * Course books
   * I prefer paper books to ebooks; they seem to stick in my memory better, and are easy to mark up with highlights and bookmarks.
+  * See [the "Materials and Costs" worksheet](https://docs.google.com/spreadsheets/d/1CVBE83diSe63xbfDdTgHKiyhSbVYcnAWUjlKcRUs_OQ/edit?usp=sharing) for the book list.
 
 ### Recommended materials
 
