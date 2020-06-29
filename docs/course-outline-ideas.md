@@ -67,6 +67,7 @@ Time: 8 weeks
 * Read through _Introducing Python_ and work all the exercises
 * Read _The Pragmatic Programmer_ topics 1-22
   * And follow their advice!
+* At the end of the class, do a couple dozen of the HackerRank Python challenges
 
 ## SOC 101
 
@@ -196,6 +197,7 @@ TODO: Find some material on GCP training and certification
 * Read K&R's _The C Programming Language_ and work all the exercises
   * This may be replaced with _21st Century C_ once Andrew reviews it
 * Do as many of the HackerRank C challenges as you can
+  * This won't be all of them, by any means. They get tough!
 
 ## PROJ 201: Intro to Project Management
 
