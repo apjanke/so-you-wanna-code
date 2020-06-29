@@ -5,7 +5,10 @@
 * [The Absolute Minimum You Need to Know About Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 * Fred Brook's ["No Silver Bullet"](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
 * ["Write Code Every Day"](https://johnresig.com/blog/write-code-every-day/)
-* ESR's ["The Cathedral and the Bazaar"](http://www.catb.org/~esr/writings/cathedral-bazaar/)
+* FLOSS stuff
+  * ESR's ["The Cathedral and the Bazaar"](http://www.catb.org/~esr/writings/cathedral-bazaar/)
+  * RMS's ["The GNU Manifesto"](https://www.gnu.org/gnu/manifesto.en.html)
+  * RMS's [_Free Software, Free Society: Selected Essays of Richard M. Stallman](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
 * ["What Every Computer Scientist Should Know About Floating Point Arithmetic"](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 * Git
   * [Pro Git](https://git-scm.com/book/en/v2)

@@ -5,6 +5,7 @@
 * PROG - Programming
 * PRAG - Pragmatics
 * DB - Databases
+* SOC - Social stuff
 * PROJ - Project Management
 * NERD - Nerd culture and support stuff
 
@@ -15,11 +16,13 @@
 * Semester 1
   * [PRAG 101](PRAG-101.html)
   * PROG 101
+  * SOC 101
   * NERD 101
 * Semester 2
   * PRAG 102
   * PROG 102
   * PROG 103 or 104 or 105 (pick 1 or 2)
+  * SOC 102
   * NERD 102
 * Semester 3
   * PRAG 201
@@ -79,6 +82,8 @@ TODO: Come up with some material on:
   * Sexism, ageism, racism, and how this will affect you
 * Computer ethics
 * Social justice issues in tech
+
+This is an issue because Andrew is totally unqualified to teach this stuff, or even pick out classes or a reading curriculum that would.
 
 ## NERD 101
 
@@ -170,6 +175,21 @@ Time: 6 weeks
 
 TODO: Find some material on GCP training and certification
 
+## SOC 102
+
+* The FLOSS movement
+  * The Free Software movement
+    * GNU and the FSF; RMS
+    * Read ["The GNU Manifesto"](https://www.gnu.org/gnu/manifesto.en.html)
+      * Maybe also "The GNU Project", "Free Software Definition", and "Why "Free Software" is Better than "Open Source"" from [_Free Software, Free Society_](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
+    * Look at [RMS's home page](https://stallman.org/)
+    * A warning about the GNU/Linux scene's prickliness and zealotry
+  * The Open Source movement
+    * ESR
+    * The OSI?
+    * Read ["The Cathedral and the Bazaar"](http://www.catb.org/~esr/writings/cathedral-bazaar)
+  * Read the Linux Foundation's ["Participating in Open Source Communities"](https://www.linuxfoundation.org/resources/open-source-guides/participating-open-source-communities/) guide
+
 ## NERD 102
 
 * Learn about mechanical keyboards
@@ -211,6 +231,7 @@ TODO: Find some material on GCP training and certification
   * Take a CAPM preparation course
     * PMI's [Project Management Basics](https://www.pmi.org/learning/courses/project-management-basics-an-official-pmi-online-course) ($400)
     * Alternative: [Udemy's CAPM Prep Seminar](https://www.udemy.com/course/capm-pmbok6) ($100)
+  * Take the CAPM certification exam
 
 ## DB 201: Using SQL
 
