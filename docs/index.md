@@ -71,4 +71,4 @@ This was made by [Andrew Janke](https://apjanke.net) for a target audience of hi
 
 This material is free to use.
 I don't need donations.
-If you'd like to support this project's aims, pleaes donate to [Black Girls Code](https://www.blackgirlscode.com/) instead.
+If you'd like to support this project's aims, please donate to [Black Girls Code](https://www.blackgirlscode.com/) instead.
