@@ -514,3 +514,83 @@ The most awesome disinformation campaigns ever in all of history were deployed b
 
 # Advanced Paranoia
 
+* The true extent of the powers of nation-state actors and very powerful organized crime groups ("Advanced Persistent Threats" or "APTs") is unknown
+  * <https://en.wikipedia.org/wiki/Advanced_persistent_threat>
+  * <https://en.wikipedia.org/wiki/Fancy_Bear>
+* Even vanilla Law Enforcement Agencies have mind-blowing capabilities
+  * <https://www.theverge.com/2013/6/6/4403868/nsa-fbi-mine-data-apple-google-facebook-microsoft-others-prism>
+  * <https://www.theguardian.com/technology/2016/oct/04/yahoo-secret-email-program-nsa-fbi>
+  * <https://www.youtube.com/watch?v=bDJb8WOJYdA>
+  * <https://en.wikipedia.org/wiki/Room_641A>
+  * <https://arstechnica.com/information-technology/2016/10/how-the-nsa-could-put-undetectable-trapdoors-in-millions-of-crypto-keys/>
+
+Welcome to the InfoSec Spiral of Doom.
+
+![InfoSec Spiral of Doom](images/infosec-spiral-of-doom.png)
+
+* All internet traffic is intercepted, stored, and searched
+  * <https://en.wikipedia.org/wiki/Room_641A>
+  * <https://en.wikipedia.org/wiki/Utah_Data_Center>
+* Most of your internet traffic is automatically encrypted though
+  * That little lock icon in the URL bar is important
+    * <https://transparencyreport.google.com/https/overview?hl=en>
+    * <https://letsencrypt.org/2018/12/31/looking-forward-to-2019.html>
+  * This means the traffic interception primarily results in metadata (who spoke to who) being available for analysis
+    * <https://privacyinternational.org/topics/metadata>
+    * Metadata analysis is hard to do, but also hard to take measures against
+      * Mostly it is a threat like a lightning strike, random and very infrequent
+* Having E2E encryption doesn’t help as much if all the companies you’re interacting with are sharing your data with each other behind the scenes
+
+* Usually the government (or other APT) will access your data through direct access to the system where it is stored, not by intercepting traffic
+  * <https://en.wikipedia.org/wiki/Tailored_Access_Operations>
+  * <https://www.youtube.com/watch?v=bDJb8WOJYdA&feature=youtu.be&t=1030>
+* There are really awesome attacks that can, for example, modify traffic in-transit however
+  * <https://isc.sans.edu/forums/diary/Quantum+Insert+Attack/19625/>
+  * These attacks, practically speaking, never get used against individuals, and the internet at large is increasing monitoring for and defending against these attacks on a constant basis
+  * Generally you’re more at risk from a warrant, or ["rubber-hose cryptanalysis"](https://en.wikipedia.org/wiki/Rubber-hose_cryptanalysis)
+* Essentially any security news from the past is already outdated, but software and infrastructure are becoming more secure all the time
+
+* Older generation technology is dramatically insecure, but new technology could theoretically have been compromised by sufficiently powerful actors
+  * When done at the hardware level, this is called a Supply Chain Attack
+    * <https://www.wired.com/story/supply-chain-hacks-cybersecurity-worst-case-scenario/>
+  * To be 100% absolutely sure of anything, you need to build your own hardware, or find some group of paranoid privacy fanatics who you trust (paradoxically, somehow) to try to clean commodity hardware for you
+    * For example: 
+      * <https://insurgo.ca/produit/qubesos-certified-privacybeast_x230-reasonably-secured-laptop/>
+      * <https://twitter.com/thegrugq/status/1150929455474343937?s=21>
+      * But who are these people?
+* It is possible to try to achieve greater security and privacy using arcane software, but the level of effort may not be worth uncertain results
+  * <https://www.qubes-os.org> (Qubes is kind of cool though)
+  * <https://www.torproject.org> (Tor is maybe more for political dissidents in Russia, China, or anywhere with government censorship)
+  * <https://tails.boum.org>
+
+## Advanced Paranoia: What About VPNs?
+
+* VPNs have long been seen as a privacy solution for people concerned about traffic interception or metadata analysis
+* This is an outdated point of view that was more valid a long time ago
+* VPNs move your internet traffic from America, where you as an American citizen have rights, and Law Enforcement Agencies are constrained by oversight, into foreign countries where (nearly universally) you have fewer or no rights, and Law Enforcement can operate without constraints
+* Foreign VPN providers can make whatever claims they like about the security and privacy of their practices, but evidence shows that they are not living up to those claims
+
+Fundamentally, when you buy and use a VPN service, you are advertising that "here is some data and network activity that I want to keep secret!" and then handing it all to some party that you don't know, have no recourse against, and is actively seeking out and advertising for access to confidential data like this. Hmmm.
+
+## Advanced Paranoia: Use Keybase
+
+* [Keybase](https://keybase.io) provides usable, everyday solutions for common cryptography needs
+  * <https://keybase.io>
+  * This is a way to bootstrap yourself into having and being able to actually use cryptography in everyday life, you know, if that’s what you want to do.
+  * You might as well give it a shot since you made it this far
+    * You can add me as a friend on there
+* Realistically, if we aren’t going to build our own computers, after all the good stuff in the General Advice section, strong cryptography is more or less the only real security solution out there
+* You can use it to encrypt files and stuff
+  * Just don’t forget your passphrases
+    * Reallyl, don't forget them, or whatever you encrypted is permanently lost
+    * Maybe put them in your Password Manager
+
+## Advanced Paranoia: Conclusion
+
+This paper really sums it up: <https://www.usenix.org/system/files/1401_08-12_mickens.pdf>
+
+There’s a lot to worry about; you can keep worrying about it forever; ultimately, though, the only sure thing is that you won’t think of everything, and if anything goes wrong, it will be because of something you didn’t come up with, no matter how deep you went into The InfoSec Spiral of Doom.
+
+# Questions?
+
+Contact Andrew at <andrew@apjanke.net>.
