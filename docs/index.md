@@ -18,7 +18,7 @@ It's also a way to get a taste of what programming is like, so you can decide if
 ## What's in here
 
 See [Course Outline Ideas](course-outline-ideas.html) for what I've come up with so far for a basic course outline.
-[Important Resources](ImportantResources.html) has links to additional resources. And you can read some [advice from my friend Desmond](Advice-From-Desmond.html), too.
+[Important Resources](Important-Resources.html) has links to additional resources. And you can read some [advice from my friend Desmond](Advice-From-Desmond.html), too.
 
 This program focuses on Python, JavaScript/web dev, and some other "general" programming stuff like Java, C, and SQL. It uses Macs for local dev machines and Google Cloud Platform for cloud stuff. It's intended to be low cost, and especially low-up-front cost, so you can decide it's not for you and bail at any time without having sunk a lot of money and effort into it.
 
