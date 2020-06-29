@@ -15,6 +15,7 @@ Time: 1 week
   * Choose wisely! You might be stuck with this for a long time.
 * Buy a domain
   * Run your domain name by Andrew before actually buying it.
+  * Use [Hover](https://hover.com) as your domain registrar
 * Set up email on your domain
   * Options:
     * GMail with a redirect (free)
