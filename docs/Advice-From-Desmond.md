@@ -7,6 +7,13 @@ This is the advice Desmond has given out to other people.
 
 This advice is somewhat focused on gaming specifically, but applies pretty well to other areas as well.
 
+## A Word of Caution
+
+As of 2020, Desmond has stopped teaching people to code, and no longer helps get people into the software development industry.
+He views the current state of the whole tech industry as terrible and toxic, and doesn't want to encourage anyone else to enter it.
+
+So take that grain of salt along with all the other advice here.
+
 ## Desmond's Advice
 
 [Write code every day.](https://johnresig.com/blog/write-code-every-day) It's like lifting weights: building cool things is cool, but building _anything_ is what's important.
@@ -89,10 +96,3 @@ Have been tortured by the following build tools:
 #### Within 8 months
 
 Think about having a cool personal website.
-
-## A Word of Caution
-
-As of 2020, Desmond has stopped teaching people to code, and no longer helps get people into the software development industry.
-He views the current state of the whole tech industry as terrible and toxic, and doesn't want to encourage anyone else to enter it.
-
-So take that grain of salt along with all the other advice here.
