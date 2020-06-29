@@ -65,7 +65,7 @@ Time: 8 weeks
   * Recommended: [Harvard's "CS50's Introduction to Computer Science" on edX](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 * Read _The Little Schemer_ and work all the exercises
 * Read through _Introducing Python_ and work all the exercises
-* Read the first several chapters of The Pragmatic Programmer
+* Read _The Pragmatic Programmer_ topics 1-22
   * And follow their advice!
 
 ## SOC 101
@@ -129,7 +129,7 @@ Time: 3 weeks
   * Provision a Linux VM on GCP
   * Log in to it remotely with SSH
 * TODO: Some stuff on learning the Unix command line
-* Finish _The Pragmatic Programmer_
+* Read _The Pragmatic Programmer_ topics 23-32 and 37-44
 * Start doing HackerRank
   * Set up a HackerRank account
   * Do a few challenges from each of the languages learned in PROG 101
@@ -183,6 +183,7 @@ TODO: Find some material on GCP training and certification
   * LinkedIn
   * DEV
 * Read:
+  * _The Pragmatic Programmer_ topics 45-53
   * ["The best investment advice you'll never get"](https://ritholtz.com/2014/02/the-best-investment-advice-youll-never-get-2/)
 
 ## PROG 201: Getting Lower Level with Java
