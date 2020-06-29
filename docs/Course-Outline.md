@@ -191,6 +191,7 @@ TODO: Find some material on GCP training and certification
 
 * Read O'Reilly's _Learning Java_ and work all the exercises
 * TODO: Find a Java programming MOOC course
+  * Maybe the [Duke Java sequence on Coursera](https://www.coursera.org/specializations/java-programming)?
 
 ## PROG 202: Getting Close to the Metal with C
 
@@ -219,9 +220,6 @@ TODO: Find some material on GCP training and certification
 
 # TODOs for Andrew
 
-* More stuff
-* How to actually locate and research employers
-* How to contact recruiters
 * Choose:
   * A free SQL GUI client
   * Practical DB work

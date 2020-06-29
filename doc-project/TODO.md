@@ -10,8 +10,6 @@
   * Oof, this one's gonna be a hard one
 * Pick additional books
   * JavaScript/web dev books
-* Choose AsciiDoc or Markdown for actual course pages
-  * <https://github.com/asciidoctor/jekyll-asciidoc> - can use AsciiDoc with GitHub Pages
 * PROJ 201: Project Management curriculum
   * Follow up on Simeon's recommendations
   * CAPM from Project Management Institute?
@@ -25,3 +23,8 @@
 * Start work on CS50 Intro to Programming
 * An item on meditation in PRAG 102 or 201?
 * Some personal finance stuff in PRAG
+* Job search stuff
+  * How to actually locate and research employers
+  * How to contact recruiters
+  * Resume construction advice
+    * With special concerns for new-career-switcher programmers
