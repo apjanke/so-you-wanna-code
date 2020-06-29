@@ -1,4 +1,4 @@
-# So You Wanna Code course outline ideas
+# So You Wanna Code Course Outline
 
 ## Course areas
 
