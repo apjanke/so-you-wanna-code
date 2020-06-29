@@ -2,6 +2,9 @@
 
 * Change theme to one with larger, black text? friendly-coders thought it was hard to read.
 * SOC 101 curriculum
+* Use Microsoft OneDrive instead of Google Drive?
+  * Seems like I'm going to lean toward Microsoft/Azure stuff, so this might integrate well
+  * 5 GB is free; $25 gets you 100 GB; $70 gets you 1 TB _plus_ Office with Microsoft 365
 * Section on FLOSS (movement and pragmatics)
   * Maybe this should go in a SOC course?
   * Warn about the GNU/Linux scene's prickliness
