@@ -25,9 +25,9 @@ Time: 1 week
   * [edX](https://www.edx.org)
   * [Bitbucket](https://bitbucket.org)
   * [Slashdot](https://slashdot.org)
-  * Google/GMail
-  * [Feedly](feedly.com)
-  * Reddit
+  * [Google](https://www.google.com/account/about)/[GMail](https://gmail.com)
+  * [Feedly](https://feedly.com)
+  * [Reddit](https://reddit.com)
   * [Matrix](https://matrix.org)
   * [Twitter](https://twitter.com)
     * This'll be your dev Twitter, not your face/personal Twitter. Keep 'em separate for now.
