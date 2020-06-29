@@ -44,6 +44,7 @@ You can find a list of program materials and costs as the ["So You Wanna Code - 
 
 * A tablet
   * Recommended: iPad
+  * Budget alternative: [Amazon Fire HD 10](https://www.amazon.com/Fire-HD-10/dp/B07K1RZWMC)
 * A tablet stand
   * Recommended: [12 South Compass Pro](https://www.twelvesouth.com/products/compass-pro) iPad Stand
 * An external monitor and keyboard once you're in to Semester 3
