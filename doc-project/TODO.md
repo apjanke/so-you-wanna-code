@@ -4,6 +4,7 @@
 * SOC 101 curriculum
 * Section on FLOSS (movement and pragmatics)
   * Maybe this should go in a SOC course?
+  * Warn about the GNU/Linux scene's prickliness
 * Put an explicit Unit Testing and CI section in somewhere
 * Ergonomics reading materials
   * Oof, this one's gonna be a hard one
