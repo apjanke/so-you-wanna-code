@@ -47,8 +47,22 @@ You can find a list of program materials and costs as the ["So You Wanna Code - 
 
 ### Required materials
 
-* An okay laptop
-  * Mac strongly recommended
+* An okay computer
+  * At least 8 GB RAM and 512 GB solid state disk
+  * Most students will prefer a laptop to a desktop
+  * Mac is strongly recommended
+  * Windows is okay
+  * Linux is not recommended
+    * (as your main OS, that is; you'll be on your own for supporting it)
+* A Windows 10 license
+  * We're going to cover Windows since that's what the business world runs on, so you'll need a copy of Windows even if you're running a Mac.
+  * You won't need Windows until Semester 2, so delay buying it until you're sure you'll do that part of the program.
+* Course books
+  * I prefer paper books to ebooks; they seem to stick in my memory better, and are easy to mark up with highlights and bookmarks.
+
+If you have an older computer that doesn't meet the RAM and disk specs, don't worry!
+Odds are good we can upgrade it to meet these specs for a lot less money than buying a new machine.
+Talk to Andrew.
 
 ### Recommended materials
 
