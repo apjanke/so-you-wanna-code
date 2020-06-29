@@ -63,7 +63,7 @@ Time: 8 weeks
   * Take a look at the HarvardX CS50 programs on edX so you can see what learning tracks are available
 * Take an "Intro to Programming" online course.
   * Recommended: [Harvard's "CS50's Introduction to Computer Science" on edX](https://www.edx.org/course/cs50s-introduction-to-computer-science)
-* Read and work through _The Little Schemer_
+* Read _The Little Schemer_ and work all the exercises
 * Read through _Introducing Python_ and work all the exercises
 * Read the first several chapters of The Pragmatic Programmer
   * And follow their advice!
