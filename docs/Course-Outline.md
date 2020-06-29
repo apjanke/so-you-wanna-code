@@ -210,9 +210,12 @@ TODO: Find some material on GCP training and certification
 
 * Read _An Introduction to Database Systems_
   * And work the exercises
+  * If you're short on time, just do the Relational Algebra part, and skip Relational Calculus
+* Take these Stanford online Databases courses:
+  * [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)
+  * [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)
+  * [Databases: Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql)
 * TODO: Some practical work with a DB, probably Postgres
-* TODO: Find a MOOC course
-  * Or courses; one for relational theory and one for Postgres pragmatics
 
 # TODOs for Andrew
 
@@ -221,4 +224,6 @@ TODO: Find some material on GCP training and certification
 * How to contact recruiters
 * Choose:
   * A free SQL GUI client
+  * Practical DB work
+  * A Java MOOC course
 * System specs & requirements for student Macs

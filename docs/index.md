@@ -9,6 +9,8 @@ It will recommend things for you to learn, and suggest where you can do that, bu
 The intent is for this to act as a cheap DIY introduction to programming for self-learners, which could prepare you for further self-study or as a head start on a more formal "boot camp" or other training program.
 It's also a way to get a taste of what programming is like, so you can decide if it's for you before you commit the time and money to do a formal training program.
 
+This program is centered on taking online MOOC courses from well-known providers, supplemented by a significant amount of independent study.
+
 ## How well will this work?
 
 I am a programmer; I am not a teacher of programming.
