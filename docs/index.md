@@ -3,21 +3,25 @@
 This is Andrew Janke's little idea for a learning program for people who want to become coders, with an eye toward getting a job in programming.
 It's aimed at adults considering a career change, but would also be appropriate for self-directed student-age learners.
 
-I am a programmer; I am not a teacher of programming.
-This is just some stuff I threw together based on my experience as a programmer.
-Effectively, this is what I would do if I were just learning how to program now.
-Nobody has done this program yet, so I have no idea how well it's going to work.
-YMMV.
-
 This is an outline of a learning program.
 It is not an actual course.
 It will recommend things for you to learn, and suggest where you can do that, but will not actually teach you these things.
 The intent is for this to act as a cheap DIY introduction to programming for self-learners, which could prepare you for further self-study or as a head start on a more formal "boot camp" or other training program.
 It's also a way to get a taste of what programming is like, so you can decide if it's for you before you commit the time and money to do a formal training program.
 
+## How well will this work?
+
+I am a programmer; I am not a teacher of programming.
+This is just some stuff I threw together based on my experience as a programmer.
+Effectively, this is what I would do if I were just learning how to program now.
+Nobody has done this program yet, so I have no idea how well it's going to work.
+YMMV.
+
+I've shown this to a couple of my industry-experienced friends, and their reactions have ranged from "pretty much guaranteed success" to "color me deeply skeptical".
+
 ## What's in here
 
-See [Course Outline Ideas](course-outline-ideas.html) for what I've come up with so far for a basic course outline.
+See the [Course Outline](Course-Outline.html) for what I've come up with so far for a basic course outline.
 [Important Resources](Important-Resources.html) has links to additional resources. And you can read some [advice from my friend Desmond](Advice-From-Desmond.html), too.
 
 This program focuses on Python, JavaScript/web dev, and some other "general" programming stuff like Java, C, and SQL. It uses Macs for local dev machines and Google Cloud Platform for cloud stuff. It's intended to be low cost, and especially low-up-front cost, so you can decide it's not for you and bail at any time without having sunk a lot of money and effort into it.
