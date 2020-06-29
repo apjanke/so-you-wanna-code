@@ -16,3 +16,9 @@ This was made by [Andrew Janke](https://apjanke.net) for a target audience of hi
 This material is free to use.
 I don't need donations.
 If you'd like to support this project's aims, pleaes donate to [Black Girls Code](https://www.blackgirlscode.com/) instead.
+
+## Contributions
+
+So You Wanna Code represents Andrew's personal view of how one could learn to code, and my own opinions. So I'll take suggestions for things to consider, but probably won't accept any PRs or material changes.
+
+Maybe if you have your own opinions or advice you want reflected, but don't want to write your own repo, you could write an `Advice-From-So-and-So.md` like the `Advice-From-Desmond.md` I've already included?
