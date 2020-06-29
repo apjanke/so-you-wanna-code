@@ -1,5 +1,6 @@
 # TODOs for So You Wanna Code
 
+* Change theme to one with larger, black text? friendly-coders thought it was hard to read.
 * Student Mac system specs
   * Are we gonna require running local VMs?
     * It's like a $500-$800 cost difference to get from a minimum 2-core MacBook to a 4-core one that could run local VMs. That's significant. Let's at least delay that requirement until it's time to run VMs or do a compiled language.
