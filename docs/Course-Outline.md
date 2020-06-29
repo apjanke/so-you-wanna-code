@@ -52,6 +52,7 @@ Time: 3 days
 
 ## PRAG 101: Setting up as a Dev
 
+* Read my [Practical OpSec page](Practical-OpSec.html) and follow its advice
 * Set up your online identity
   * Pick a handle
   * Get a domain
@@ -59,6 +60,8 @@ Time: 3 days
 * Install dev stuff on your computer and devices
 * Set up your learning stream
 * Set up your dev meatspace
+
+See the [PRAG-101 page](PRAG-101.html) for details.
 
 ## PROG 101: Beginning Programming
 
