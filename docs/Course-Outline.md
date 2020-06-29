@@ -4,6 +4,7 @@
 
 * PROG - Programming
 * PRAG - Pragmatics
+* DB - Databases
 * PROJ - Project Management
 * NERD - Nerd culture and support stuff
 
@@ -24,7 +25,10 @@
   * PRAG 201
   * PROJ 201 (elective)
   * PROG 201 _or_ 202 (elective)
-  * DB 201 (elective)
+  * DB 201
+  * DB 202 (elective)
+
+TODO: Probably define specific "tracks" for Web Dev and Data Science.
 
 # Preparation
 
@@ -37,16 +41,14 @@ Time: 3 days
   * _Coders_ by Clive Thompson
   * Optional: _Microserfs_ by Douglas Coupland
 * Take the [HarvardX "CS50's Understanding Technology" course](https://www.edx.org/course/cs50s-understanding-technology)
-* Get a Mac laptop
-  * TODO: System specs & requirements
+* Get an okay Mac or Windows laptop
+* Join the "Lovelace Cafe" Discord
+  * Email Andrew for an invite
 
 # Semester 1
 
 ## PRAG 101: Setting up as a Dev
 
-* Prep for the course
-  * Join the "Lovelace Cafe" Discord
-    * Email Andrew for an invite
 * Set up your online identity
   * Pick a handle
   * Get a domain
@@ -205,19 +207,34 @@ TODO: Find some material on GCP training and certification
 
 * Read _The Mythical Man-Month_
 * Read _The Manager's Path_
-* More TBD
-  * TODO: Find a course/certificate program
+* Get a PMI CAPM certification
+  * Take a CAPM preparation course
+    * PMI's [Project Management Basics](https://www.pmi.org/learning/courses/project-management-basics-an-official-pmi-online-course) ($400)
+    * Alternative: [Udemy's CAPM Prep Seminar](https://www.udemy.com/course/capm-pmbok6) ($100)
 
-## DB 201: Databases
+## DB 201: Using SQL
+
+* Learn how to write basic SQL
+  * SQL queries
+  * Basic schema design
+  * TODO: Pick book/course/curriculum
+* Learn basic SQL Server use and administration
+  * TODO: Curriculum
+* Take these Stanford Online Databases courses:
+  * [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)
+* Get a Microsoft SQL certification
+  * TODO: Specify exactly which cert(s)
+
+## DB 202: Relational Theory
+
+Prereq: DB 201
 
 * Read _An Introduction to Database Systems_
   * And work the exercises
   * If you're short on time, just do the Relational Algebra part, and skip Relational Calculus
-* Take these Stanford online Databases courses:
-  * [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)
+* Take these Stanford Online Databases courses:
   * [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)
   * [Databases: Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql)
-* TODO: Some practical work with a DB, probably Postgres
 
 # TODOs for Andrew
 

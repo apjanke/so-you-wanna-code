@@ -32,7 +32,22 @@ See the [Course Outline](Course-Outline.html) for what I've come up with so far 
 
 This program focuses on Python, JavaScript/web dev, and some other "general" programming stuff like Java, C, and SQL. It uses Macs for local dev machines and Google Cloud Platform for cloud stuff. It's intended to be low cost, and especially low-up-front cost, so you can decide it's not for you and bail at any time without having sunk a lot of money and effort into it.
 
-## Effort and Cost
+## What's the goal
+
+The goal of this program is vocational: it's for people who want to eventually get a job as a software developer.
+
+This program will start you on your way to being a programmer, and let you see if you have the interest and aptitude to do so, at a small cost of time and effort.
+It won't its own get you to the point of being employable.
+If you want to land a job in programming, you'll want to follow this program up with something like one of the following:
+
+* Additional self-study and certification exams (~$2,000)
+* A programming boot camp (~$15,000)
+* An online B.S. in Computer Science (~$20,000-$40,000)
+* A B.S. in Computer Science at a traditional university ($50,000+)
+
+At that point, you'll be equipped to get an entry level job in software.
+
+## Effort and cost
 
 The program lays out about 3 to 8 months of learning activity, but it's all self-paced, so you can go faster or slower.
 

@@ -1,7 +1,11 @@
 # TODOs for So You Wanna Code
 
 * Change theme to one with larger, black text? friendly-coders thought it was hard to read.
+
+* Expectations essay
 * SOC 101 curriculum
+* Add some Technical Writing stuff
+  * This should probably be integrated throughout the program, instead of as a discrete course
 * Use Microsoft OneDrive instead of Google Drive?
   * Seems like I'm going to lean toward Microsoft/Azure stuff, so this might integrate well
   * 5 GB is free; $25 gets you 100 GB; $70 gets you 1 TB _plus_ Office with Microsoft 365
