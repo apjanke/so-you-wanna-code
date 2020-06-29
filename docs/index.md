@@ -17,6 +17,10 @@ Effectively, this is what I would do if I were just learning how to program now.
 Nobody has done this program yet, so I have no idea how well it's going to work.
 YMMV.
 
+In particular, note that I have not actually taken any of the MOOC courses recommended here.
+I just picked them out based on some research.
+Nevertheless, they're the ones I would take myself if I needed instruction at that level.
+
 I've shown this to a couple of my industry-experienced friends, and their reactions have ranged from "pretty much guaranteed success" to "color me deeply skeptical".
 
 ## What's in here
