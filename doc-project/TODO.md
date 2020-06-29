@@ -6,6 +6,7 @@
 * SOC 101 curriculum
 * Section on FLOSS (movement and pragmatics)
   * Maybe this should go in a SOC course?
+* Put an explicit Unit Testing and CI section in somewhere
 * Ergonomics reading materials
   * Oof, this one's gonna be a hard one
 * Pick additional books

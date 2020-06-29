@@ -192,6 +192,7 @@ TODO: Find some material on GCP training and certification
 * Read O'Reilly's _Learning Java_ and work all the exercises
 * TODO: Find a Java programming MOOC course
   * Maybe the [Duke Java sequence on Coursera](https://www.coursera.org/specializations/java-programming)?
+  * Or maybe the [UCSD one](https://www.coursera.org/specializations/java-object-oriented)
 
 ## PROG 202: Getting Close to the Metal with C
 
