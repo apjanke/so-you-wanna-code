@@ -6,6 +6,7 @@ Time: 1 week
 
 * Join the "Lovelace Cafe" Discord
   * This is Andrew's Discord for people doing this program. Ask him for an invite.
+  * (The Lovelace Cafe is restricted to Andrew's personal friends, so I don't have to worry about moderation.)
 
 ## Setting up your identity
 

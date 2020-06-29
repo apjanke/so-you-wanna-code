@@ -46,6 +46,7 @@ Time: 3 days
 
 * Prep for the course
   * Join the "Lovelace Cafe" Discord
+    * Email Andrew for an invite
 * Set up your online identity
   * Pick a handle
   * Get a domain
