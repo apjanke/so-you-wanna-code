@@ -146,8 +146,8 @@ Time: 3 weeks
 ## PROG 102: Next Steps
 
 * Read _The Practice of Programming_
-* Read "No Silver Bullet" by Fred Brooks
 * Read _Database In Depth_
+* Read "No Silver Bullet" by Fred Brooks
 
 ## PROG 103: Web Development
 
@@ -197,6 +197,7 @@ TODO: Find some material on GCP training and certification
 ## PROG 202: Getting Close to the Metal with C
 
 * Read _21st Century C_ and work all the exercises
+  * Start with the tutorial from the Appendix!
 * Do as many of the HackerRank C challenges as you can
   * This won't be all of them, by any means. They get tough!
 
