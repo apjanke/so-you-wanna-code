@@ -26,3 +26,6 @@
   * How to contact recruiters
   * Resume construction advice
     * With special concerns for new-career-switcher programmers
+* Choose a free SQL GUI client
+  * Probably just SSMS, since we're doing SQL Server
+* Come up with some practical DB work

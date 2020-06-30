@@ -263,10 +263,3 @@ Prereq: DB 201
   * [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)
   * [Databases: Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql)
 
-# TODOs for Andrew
-
-* Choose:
-  * A free SQL GUI client
-  * Practical DB work
-  * A Java MOOC course
-* System specs & requirements for student Macs
