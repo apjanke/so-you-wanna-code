@@ -75,6 +75,7 @@ You can find a list of program materials and costs as the ["So You Wanna Code - 
   * Most students will prefer a laptop to a desktop
   * Mac is recommended
   * Windows is fine too; you'll just have to do a bit more administrative work on it.
+    * If it's Windows, it's gotta be Windows 10, not Windows 8 or 7
   * Linux is not recommended
     * (as your main OS, that is; you'll be on your own for supporting it)
   * No Chromebooks! Those won't work.
