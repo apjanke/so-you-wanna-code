@@ -66,8 +66,8 @@ You can find a list of program materials and costs as the ["So You Wanna Code - 
 * An okay computer
   * At least 8 GB RAM and 512 GB solid state disk
   * Most students will prefer a laptop to a desktop
-  * Mac is strongly recommended
-  * Windows is okay
+  * Mac is recommended
+  * Windows is fine too; you'll just have to do a bit more work on it.
   * Linux is not recommended
     * (as your main OS, that is; you'll be on your own for supporting it)
 
