@@ -44,7 +44,7 @@ Time: 3 days
   * _Coders_ by Clive Thompson
   * Optional: _Microserfs_ by Douglas Coupland
 * Take the [HarvardX "CS50's Understanding Technology" course](https://www.edx.org/course/cs50s-understanding-technology)
-* Get an okay Mac or Windows laptop
+* Get an okay Mac or Windows computer
 * Join the "Lovelace Cafe" Discord
   * Email Andrew for an invite
 
