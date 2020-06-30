@@ -1,6 +1,10 @@
 # TODOs for So You Wanna Code
 
+## Stuff
+
 * Change theme to one with larger, black text? friendly-coders thought it was hard to read.
+
+## More stuff
 
 * Expectations essay
 * SOC 101 curriculum
@@ -15,8 +19,8 @@
 * An item on meditation in PRAG 102 or 201?
 * Pick additional books
   * JavaScript/web dev books
-* Research certifications for Azure, GCP and AWS
-  * Consider switching to Azure or AWS, for job prospect reasons; GCP is only like 5% market share
+* Research certifications for Azure and AWS
+* Decide between Azure and AWS for cloud hosting
 * More diversity in reading sources?
   * Current list is pretty white and male
 * Start work on CS50 Intro to Programming
@@ -26,6 +30,10 @@
   * How to contact recruiters
   * Resume construction advice
     * With special concerns for new-career-switcher programmers
+  * Competitors to Triplebyte and TopCoder?
+  * Research the current recruiting-site scene; is Dice.com still the leader?
 * Choose a free SQL GUI client
   * Probably just SSMS, since we're doing SQL Server
 * Come up with some practical DB work
+* Add some Knuth essays to the reading list
+* Add some Dijkstra essays to the reading list
