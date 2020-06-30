@@ -115,3 +115,9 @@ The home for the code behind this site is <https://github.com/apjanke/so-you-wan
 This material is free to use.
 I don't need donations.
 If you'd like to support this project's aims, please donate to [Black Girls Code](https://www.blackgirlscode.com/) instead.
+
+## Some other stuff
+
+Here's [a list of references to other materials](Important-Resources.html).
+
+This [Practical OpSec Guide](Practical-OpSec.html) should be useful to anyone, even if they're not doing this program.
