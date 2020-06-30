@@ -45,7 +45,7 @@ If you want to land a job in programming, you'll want to follow this program up 
 * An online B.S. in Computer Science (~$20,000-$40,000)
 * A B.S. in Computer Science at a traditional university ($50,000+)
 
-At that point, you'll be equipped to get an entry level job in software.
+At that point, you'll be equipped to get an entry level job in software development or maybe sysadminning.
 
 The goal of this program is to set you on the path toward getting a boring, stable programming job at a boring, stable company.
 It will not make you a computer artist or sooper hacker.
