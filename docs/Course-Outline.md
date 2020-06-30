@@ -191,7 +191,9 @@ TODO: Find some material on GCP training and certification
     * ESR
     * The OSI?
     * Read ["The Cathedral and the Bazaar"](http://www.catb.org/~esr/writings/cathedral-bazaar)
-  * Read the Linux Foundation's ["Participating in Open Source Communities"](https://www.linuxfoundation.org/resources/open-source-guides/participating-open-source-communities/) guide
+  * Read:
+    * The Linux Foundation's ["Participating in Open Source Communities"](https://www.linuxfoundation.org/resources/open-source-guides/participating-open-source-communities/) guide
+    * [opensource.guide's "How to Contribute](https://opensource.guide/how-to-contribute/)
 
 ## NERD 102
 
@@ -204,7 +206,8 @@ TODO: Find some material on GCP training and certification
 
 * Update your resume
   * And post it on your website
-* Do Triplebyte
+* Join [Triplebyte](https://triplebyte.com), learn about their process, and prepare to do their interview
+* Join [TopCoder](https://www.topcoder.com/)
 * Update your "professional" profiles
   * LinkedIn
   * DEV
