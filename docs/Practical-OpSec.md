@@ -26,8 +26,6 @@ Okay, I was kidding; those aren't the objectives. These are the objectives:
 * You need to enable MFA on your key email accounts and your bank accounts
   * SMS MFA is better than nothing.
 
-## The Real Objectives, Part II
-
 From here on out, you'll:
 
 * Always know your password to a site
