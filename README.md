@@ -3,11 +3,15 @@
 This is Andrew Janke's little idea for a learning program for people who want to become coders, with an eye toward getting a job in programming.
 It's aimed at adults considering a career change, but would also be appropriate for self-directed student-age learners.
 
-See the live site at <https://apjanke.github.io/so-you-wanna-code>.
+See the live site at <https://soyouwannacode.club>.
 
 ## License
 
 Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
+
+## Status
+
+This is very much a work in progress. The content may change at any time, new stuff is being added frequently, and links to any individual page may break at any time.
 
 ## Author
 
