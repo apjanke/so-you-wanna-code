@@ -39,14 +39,17 @@ TODO: Probably define specific "tracks" for Web Dev and Data Science.
 
 Time: 3 days
 
+* Read through this whole Course Outline
+* Write an [Expectations Essay](Expectations-Essay.html) and send it to Andrew
 * Read:
   * _Code_ by Charles Petzold
   * _Coders_ by Clive Thompson
   * Optional: _Microserfs_ by Douglas Coupland
 * Take the [HarvardX "CS50's Understanding Technology" course](https://www.edx.org/course/cs50s-understanding-technology)
-* Get an okay Mac or Windows computer
 * Join the "Lovelace Cafe" Discord
   * Email Andrew for an invite
+* Get an okay Mac or Windows computer
+  * Or, if you have a crappy computer and need to save money, wait 3 months on this; you won't really need any power until Semester 2. Talk to Andrew if unsure.
 
 # Semester 1
 

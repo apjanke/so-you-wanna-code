@@ -4,9 +4,9 @@ Time: 1 week
 
 ## Prep for this course
 
-* Join the "Lovelace Cafe" Discord
+* Join the "Lovelace Café" Discord
   * This is Andrew's Discord for people doing this program. Ask him for an invite.
-  * (The Lovelace Cafe is restricted to Andrew's personal friends, so I don't have to worry about moderation.)
+  * (The Lovelace Café is restricted to Andrew's personal friends, so I don't have to worry about moderation.)
 
 ## Preparing to comptooter safely
 
@@ -14,21 +14,22 @@ Time: 1 week
 
 ## Setting up your identity
 
-* Pick a handle
+* Choose your "handle"
   * This is your online nickname. You'll use it for your domain, and your account names on all these services.
-  * Choose wisely! You might be stuck with this for a long time.
+  * Choose wisely! This is the name the public and potential employers and collaborators will see you through, and you might be stuck with this for a long time.
+  * No, really. Take some time and think about this, and choose this first, before going on to the next steps.
 * Buy a domain
+  * Probably use your handle for or in your domain name.
   * Run your domain name by Andrew before actually buying it.
   * Use [Hover](https://hover.com) as your domain registrar
 * Set up email on your domain
-  * Options:
-    * GMail with a redirect (free)
-    * FastMail (better, but $)
+  * Just use GMail with a forward. It's free and good.
 * Create accounts and set up your profiles on:
   * [GitHub](https://github.com/)
-  * [DEV](https://dev.to)
   * [Stack Overflow](https://stackoverflow.com)
   * [edX](https://www.edx.org)
+  * [Coursera](https://www.coursera.org/)
+  * [DEV](https://dev.to)
   * [Bitbucket](https://bitbucket.org)
   * [Slashdot](https://slashdot.org)
   * [Google](https://www.google.com/account/about)/[GMail](https://gmail.com)
@@ -40,6 +41,10 @@ Time: 1 week
   * [LinkedIn](https://www.linkedin.com)
   * [Pinboard](https://pinboard.in)
   * [Pocket](https://getpocket.com)
+  * And maybe:
+    * [A Cloud Guru](https://acloud.guru/)
+    * [Linux Academy](https://linuxacademy.com/)
+  * And use your handle for your username on all of these
 
 ## Setting up your dev box
 
@@ -72,9 +77,6 @@ Time: 1 week
     * RStudio
   * Homebrew
   * Anaconda
-  * VMs
-    * VirtualBox
-    * VMware Fusion (optional)
 * Communication
   * Slack
   * Discord
@@ -90,6 +92,10 @@ Time: 1 week
 * Fonts
   * TODO: Pick a selection
 * Microsoft Office or LibreOffice
+
+Yes, really, all of this. :) You'll end up using most of it, and it'll be good practice.
+
+This list is for Mac users. If you're a Windows user, the list will be a bit different. I haven't figured that out yet, so just go through it and install everything on here that exists for Windows, and ask me about substitutes for the things that don't exist.
 
 ### Install on your mobile devices
 

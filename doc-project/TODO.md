@@ -6,6 +6,7 @@
 
 ## More stuff
 
+* Choose a voice: is it "me" or "Andrew"?
 * Expectations essay
 * SOC 101 curriculum
 * Add some Technical Writing stuff
