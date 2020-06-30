@@ -77,7 +77,8 @@ Talk to Andrew.
 
 * A Windows 10 license
   * We're going to cover Windows since that's what the business world runs on, so you'll need a copy of Windows even if you're running a Mac.
-  * You won't need Windows until Semester 2, so delay buying it until you're sure you'll do that part of the program.
+  * If your computer is a Windows computer, you already have this. (Unless you're running an old OS like Windows 7 or Windows 8.)
+  * If you have a Mac, you won't need Windows until Semester 3, so delay buying it until you're sure you'll do that part of the program.
 * Course books
   * I prefer paper books to ebooks; they seem to stick in my memory better, and are easy to mark up with highlights and bookmarks.
   * See [the "Materials and Costs" worksheet](https://docs.google.com/spreadsheets/d/1CVBE83diSe63xbfDdTgHKiyhSbVYcnAWUjlKcRUs_OQ/edit?usp=sharing) for the book list.
