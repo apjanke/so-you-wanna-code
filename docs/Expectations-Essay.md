@@ -15,6 +15,8 @@ Consider these questions:
     * Do you want to make a _lot_ of money?
   * Do you need to get personal or artistic fulfillment out of your day job, or can you just cash a paycheck and do that through other means?
   * Are there certain industries (e.g. defense, intelligence, finance) that you are unwilling to work in?
+  * Are there certain industries you would especially _like_ to work in?
+  * Does it matter to you what kind of software products you're building at work?
   * Career-change stuff
     * If this program works out for you, you will end up with an entry-level programming job. If you're an adult career-switcher, this means that you may well be working with and reporting to people much younger than you, like 25-year-old dudes and freshly-minted MBAs. Are you okay with that?
   * Do you have political or philosophical issues with proprietary software or intellectual property rights in general?
