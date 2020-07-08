@@ -13,15 +13,25 @@
 * ["Test Infected: Programmers Love Writing Tests"](http://junit.sourceforge.net/doc/testinfected/testing.htm)
 * ["What Every Computer Scientist Should Know About Floating Point Arithmetic"](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 
+### Programming and Industry
+
+* [Joel Spolsky's Talk at Yale](https://www.joelonsoftware.com/2007/12/03/talk-at-yale-part-1-of-3/)
+* [yosefk's gloss on patio11's post on this stuff](http://yosefk.com/blog/do-call-yourself-a-programmer-and-other-career-advice.html)
+
 ## FLOSS stuff
 
 * ESR's ["The Cathedral and the Bazaar"](http://www.catb.org/~esr/writings/cathedral-bazaar/)
 * RMS's ["The GNU Manifesto"](https://www.gnu.org/gnu/manifesto.en.html)
 * RMS's [_Free Software, Free Society: Selected Essays of Richard M. Stallman](https://www.gnu.org/philosophy/fsfs/rms-essays.pdf)
 
+## Specific technical stuff
+
+* [UTF-8 Everywhere](http://utf8everywhere.org/)
+
 ## Tools
 
 ### Git
+
 * [Pro Git](https://git-scm.com/book/en/v2)
 * [Atlassian's Git Tutorials](https://www.atlassian.com/git)
 * [Oh Shit, Git!?!](https://ohshitgit.com/)
