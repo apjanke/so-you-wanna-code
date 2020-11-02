@@ -56,3 +56,7 @@
 * [patio11](https://twitter.com/patio11/)
 * [Marcus J. Carey](https://twitter.com/marcusjcarey)
 * [Lesley Carhart](https://twitter.com/hacks4pancakes/)
+
+## Online Learning Resources
+
+* [CMU 313 - Foundations of Software Engineering](https://cmu-313.github.io/)
