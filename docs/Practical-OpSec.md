@@ -1,6 +1,6 @@
 # Practical OpSec
 
-(Based on a "Family OpSec Workshop" deck from Desmond (not his real name).)
+(Based on a "Family OpSec Workshop" deck from my friend Desmond. (Not his real name.))
 
 # Introduction
 
